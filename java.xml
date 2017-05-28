@@ -1,0 +1,11 @@
+<ISBNdb server_time="2017-01-08T13:36:13Z">
+	<BookList total_results="1" page_size="10" page_number="1" shown_result="1">
+		<BookData book_id="java_in_a_nutshell_5th_edition" isbn="978088888888" isbn13="9788888888857">
+			<Title>O'Really Java</Title>
+			<TitleLong/>
+			<AuthorsText>O'Really</AuthorsText>
+			<PublisherText publisher_id="oreilly">USA; O'Really, c2015.</PublisherText>
+			<Details change_time="2016-11-04T06:00:29Z" price_time="2016-12-25T06:00:29Z" edition_info="" language="eng" physical_description_text="xxiv, 1224p. : ill. ; 23 cm" Icc_number="QA76.73" dewey_decimal_normalized="" dewey_decimal="" />
+		</BookData>
+	</BookList>
+</ISBNdb>
